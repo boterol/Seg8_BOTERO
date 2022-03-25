@@ -150,6 +150,8 @@ public class CountryData {
 		}
 		out+="----------\n";
 		generalSorting();
+		generalSorting();
+		generalSorting();
 		for(Country c: data)
 		{
 			out+=c.toString();
