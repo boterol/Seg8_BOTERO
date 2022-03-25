@@ -24,4 +24,3 @@ Inglaterra;10;12;13;9;12;11
 Holanda;2;4;4;0;0;1
 Finlandia;1;1;2;0;1;2
 Honduras;0;0;3;0;2;1
-
